@@ -1,7 +1,4 @@
 # Movie-Recommendation-System 
   
-  
-  
-  
-  
+
   
